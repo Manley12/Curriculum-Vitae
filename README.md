@@ -5,4 +5,4 @@ This is my formal curriculum vitae for UI and UX Design Position written in HTML
 ***
 
 # Adapting The CV
-I will be working on a blank template for anybody to use. The template will be available free of charge here on Github. Inside of the template (backside), there will be instructions on how to use it for your purposes.
+I will be working on a blank template for anybody to use. The template will be available free of charge here on Github (https://github.com/Manley12/CV-Resume-Template). Inside of the template (backside), there will be instructions on how to use it for your purposes.
