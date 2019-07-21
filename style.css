@@ -349,6 +349,13 @@ section:last-child {
 		font-size: 2;
 		line-height: ;
 	}
+	.sectionContent h2 {
+		font-size: 0.75em;
+	}
+
+	.subDetails {
+		font-size: 0.4em;
+	}
 }
 
 @-webkit-keyframes reset {
