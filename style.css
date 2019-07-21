@@ -345,6 +345,10 @@ section:last-child {
 	.mainDetails {
 		padding: 0px 10px;
 	}
+	.p {
+		font-size: 0.5em;
+		line-height: 0.7em;
+	}
 }
 
 @-webkit-keyframes reset {
