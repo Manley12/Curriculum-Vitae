@@ -350,7 +350,7 @@ section:last-child {
 		font-size: 1em;
 	}
 	#name h1 {
-		margin-bottom: 0px;
+		margin-bottom: 10px;
 	}	
 	html, body {background: #fba342; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 10px; color: #222;}
 }
