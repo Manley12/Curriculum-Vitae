@@ -350,11 +350,11 @@ section:last-child {
 		line-height: ;
 	}
 	.sectionContent h2 {
-		font-size: 1em;
+		font-size: 1.2em;
 	}
 
 	.subDetails {
-		font-size: 0.4em;
+		font-size: 0.8em;
 	}
 	html, body {background: #fba342; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 10px; color: #222;}
 }
