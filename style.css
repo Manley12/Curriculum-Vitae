@@ -349,6 +349,9 @@ section:last-child {
 	.subDetails {
 		font-size: 1em;
 	}
+	#name h1 {
+		margin-bottom: 0px;
+	}	
 	html, body {background: #fba342; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 10px; color: #222;}
 }
 
