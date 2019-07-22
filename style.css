@@ -352,6 +352,9 @@ section:last-child {
 	#name h1 {
 		margin-bottom: 10px;
 	}	
+	h1 {
+		margin-bottom: 10px;
+	}
 	html, body {background: #fba342; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 10px; color: #222;}
 }
 
