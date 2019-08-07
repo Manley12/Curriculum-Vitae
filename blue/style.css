@@ -345,10 +345,7 @@ section:last-child {
 	.mainDetails {
 		padding: 0px 10px;
 	}
-
-	.subDetails {
-		font-size: 1em;
-	}
+	
 	#name h1 {
 		margin-bottom: 3px;
 	}	
