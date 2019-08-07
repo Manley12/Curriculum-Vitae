@@ -352,7 +352,7 @@ section:last-child {
 	h1 {
 		margin-bottom: 3px;
 	}
-	html, body {background: #354468; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 10px; color: #222;}
+	html, body {background: #354468; font-family: 'Lato', helvetica, arial, sans-serif; font-size: ; color: #222;}
 }
 
 @-webkit-keyframes reset {
